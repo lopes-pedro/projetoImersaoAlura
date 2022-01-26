@@ -1,0 +1,3 @@
+Comece explorando o projeto pelo arquivo package.json. Nele, hão as especificações do projeto, como versão, nome, códigos para desenvolvimento e etc. O código "dev" dentro de "dependences" é o código para rodar o modo de desenvolvimento do projeto. Use o comando (yarn dev)
+
+As páginas são armazenadas na pasta pages e o são exibidas pelo index.js, que é a página renderizadora da home
